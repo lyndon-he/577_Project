@@ -1,3 +1,6 @@
+This project aims to generate insights behind ecommerce purchase records by using EDA methods and unsupervised clustering methods. 
+The jupiter notebook and affiliated function are in the file 'notebook'.
+
 Project Organization
 ------------
 
@@ -37,5 +40,4 @@ Project Organization
 
 --------
 
-This project aims to generate insights behind ecommerce purchase records by using EDA methods and unsupervised clustering methods. 
-The jupiter notebook and affiliated function are in the file 'notebook'.
+
